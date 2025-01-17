@@ -60,7 +60,7 @@
 
 1. **Clonez le dépôt** :
    ```bash
-   git clone <URL_DU_DEPOT>
+   git clone https://github.com/Djibril132/My-project.git
 
 2. **Ouvrez le projet dans Unity Hub** :
 Dans Unity Hub, cliquez sur Add et sélectionnez le dossier du projet.
